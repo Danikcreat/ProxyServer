@@ -2,13 +2,13 @@
 
 Настройка Mozilla Firefox:
 
-![alt text](/img/img1.png)
+![alt text](/Proxy/img/img1.png)
 
 Вывод консоли сервера:
 
-![alt text](/img/img2.png)
+![alt text](/Proxy/img/img2.png)
 
 Отображение сайтов:
 
-![alt text](/img/img3.png)
-![alt text](/img/img4.png)
+![alt text](/Proxy/img/img3.png)
+![alt text](/Proxy/img/img4.png)
